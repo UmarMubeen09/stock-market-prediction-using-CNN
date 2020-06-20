@@ -1,0 +1,4 @@
+
+This dataSet is Google Stock price data of 2012
+with included Open Low High values and other details.
+Predict Stock price on basis of historical data
